@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mauro José Ciappina</h1>
 <h3 align="center">Passionate Frontend Developer from Argentina, bringing innovation to the digital world</h3>
 
-- 🔭 I’m currently working on [PI-Rick and Morty -main (Henry Bootcamp)](https://github.com/mauroociappinaph/IntegradosFBB)
+- 🔭 I’m currently working on Final Project of Henry
 
-- 🌱 I’m currently learning **NodeJs**
+- 🌱 I’m currently learning **English &  NodeJS**
 
 - 🔭 I’m currently working on [PI-Videogames](https://github.com/mauroociappinaph/AgenciaDeViajeNodeJS)
 
