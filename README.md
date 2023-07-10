@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **English &  NodeJS**
 
-- 🔭 I’m currently working on [PI-Videogames](https://github.com/mauroociappinaph/AgenciaDeViajeNodeJS)
-
 - 👨‍💻 All of my projects are available at [https://github.com/mauroociappinaph](https://github.com/mauroociappinaph)
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/maurojoseciappina/](https://www.linkedin.com/in/maurojoseciappina/)
