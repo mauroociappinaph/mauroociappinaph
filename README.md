@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on Final Project of Henry
 
-- 🌱 I’m currently learning **English &  NodeJS**
+- 🌱 I’m currently learning **English &  NextJS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/mauroociappinaph](https://github.com/mauroociappinaph)
 
