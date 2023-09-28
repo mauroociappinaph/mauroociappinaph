@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on Final Project of Henry https://github.com/AdielHdz/StartBussines/tree/develop
 
-- 🌱 I’m currently learning **English &  NextJS**
+- 🌱 I’m currently learning **Typescript &  React Native**
 
 - 👨‍💻 All of my projects are available at [https://github.com/mauroociappinaph](https://github.com/mauroociappinaph)
 
