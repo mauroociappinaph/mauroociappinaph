@@ -1,19 +1,22 @@
-<h1 align="center">Hi 👋, I'm Mauro José Ciappina</h1>
-<h3 align="center">Passionate Frontend Developer from Argentina, bringing innovation to the digital world</h3>
+<h1 align="center">Hola 👋, Soy Mauro José Ciappina</h1>
+<h3 align="center">Desarrollador Frontend apasionado de Argentina, trayendo innovación al mundo digital</h3>
 
-- 🔭 I’m currently working on Final Project of Henry https://github.com/AdielHdz/StartBussines/tree/develop
+- 🔭 Actualmente estoy trabajando en el Proyecto Final de EmprendeArt, un modelo de negocio de mi autoría
+- Repositorios:
+  - Frontend:
+  - Backend: https://github.com/mauroociappinaph/backend
 
-- 🌱 I’m currently learning **Typescript &  React Native**
+- 🌱 Actualmente estoy aprendiendo **Nest Js & Prisma**
 
-- 👨‍💻 All of my projects are available at [https://github.com/mauroociappinaph](https://github.com/mauroociappinaph)
+- 👨‍💻 Todos mis proyectos están disponibles en [https://github.com/mauroociappinaph](https://github.com/mauroociappinaph)
 
-- 📝 I regularly write articles on [https://www.linkedin.com/in/maurojoseciappina/](https://www.linkedin.com/in/maurojoseciappina/)
+- 📝 Escribo artículos regularmente en [https://www.linkedin.com/in/maurojoseciappina/](https://www.linkedin.com/in/maurojoseciappina/)
 
-- 💬 Ask me about **Html, css, Bootstrap, Tailwind ,JavaScript,React, Jest ,PHP,pug ,SASS ,LESS , Gulp & NodeJs**
+- 💬 Pregúntame sobre **Next.js, NodeJs ,TypeScript, Tailwind CSS, Zustand, Prisma, NestJS, Redis, Cloudinary, React Hook Form, Stripe, Axios**
 
-- 📫 How to reach me **ciappinamaurooj@gmail.com**
+- 📫 Cómo contactarme: **ciappinamaurooj@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/maurojoseciappina/](https://www.linkedin.com/in/maurojoseciappina/)
+- 📄 Conoce mis experiencias en [https://www.linkedin.com/in/maurojoseciappina/](https://www.linkedin.com/in/maurojoseciappina/)
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
