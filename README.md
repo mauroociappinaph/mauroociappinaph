@@ -1,9 +1,9 @@
 <h1 align="center">Hola 👋, Soy Mauro José Ciappina</h1>
 <h3 align="center">Desarrollador Frontend apasionado de Argentina, trayendo innovación al mundo digital</h3>
 
-- 🔭 Actualmente estoy trabajando en el Proyecto Final de EmprendeArt, un modelo de negocio de mi autoría
+- 🔭 Actualmente estoy trabajando en el Proyecto EmprendeArt, un modelo de negocio de mi autoría.
 - Repositorios:
-  - Frontend:
+  - Frontend: https://github.com/mauroociappinaph/frontend
   - Backend: https://github.com/mauroociappinaph/backend
 
 - 🌱 Actualmente estoy aprendiendo **Nest Js & Prisma**
