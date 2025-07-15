@@ -5,22 +5,12 @@
   <a href="https://github.com/mauroociappinaph">
     <img src="https://github-readme-stats.vercel.app/api?username=mauroociappinaph&show_icons=true&theme=radical" alt="Mauro's GitHub stats" />
   </a>
-</p>
-<p align="center">
-  <a href="https://github.com/mauroociappinaph">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=mauroociappinaph&theme=radical" alt="GitHub Streak" />
-  </a>
-</p>
-<p align="center">
+  &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/mauroociappinaph">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mauroociappinaph&layout=compact&theme=radical" alt="Top Langs" />
   </a>
 </p>
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=mauroociappinaph&theme=radical&no-frame=true&column=4" alt="GitHub Trophies" />
-  </a>
-</p>
+
 
 ---
 
