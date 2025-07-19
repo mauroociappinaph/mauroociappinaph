@@ -34,7 +34,7 @@ Full Stack Developer with a background in Audiovisual Communication and hands-on
   Backend development for video games, including analysis, database schema design, and CRUD implementation using WebSocket, Akee, Stripe, JavaScript, Node.js, Parse Server in SCRUM teams.
 
 - **Full Stack Developer – HttpLazy (Personal Project, Apr 2025 – present)**  
-  Creator of [HttpLazy](https://www.npmjs.com/package/httplazy) (v2.5.2), an npm library for JavaScript/TypeScript that streamlines API consumption with built-in authentication, error handling, auto-retries, and interceptors.
+  Creator of [HttpLazy](https://www.npmjs.com/package/httplazy) (v2.5.3), an npm library for JavaScript/TypeScript that streamlines API consumption with built-in authentication, error handling, auto-retries, and interceptors.
 
 - **Full Stack Developer – Hows Advisor (Mar – May 2024)**  
   B2B platform development utilizing TypeScript, React, Zustand, Sequelize, Tailwind, Node.js, and Stripe integration.
