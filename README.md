@@ -57,7 +57,7 @@ Full Stack Developer with a background in Audiovisual Communication and hands-on
 
 ## 🛠 Tech Stack
 
-JavaScript · TypeScript · React · Redux · Zustand · Next.js · Node.js · Express · NestJS · MongoDB · Prisma · Parse Server · CSS · Git · GitHub · WebSocket · Stripe · Sequelize · Tailwind CSS · shadcn/ui · N8N · Akee · SCRUM · NPM
+JavaScript · TypeScript · React · Redux · Zustand · Next.js · Node.js · Express · NestJS · MongoDB · Prisma · Parse Server · CSS · Git · GitHub · WebSocket · Stripe · Sequelize · Tailwind CSS · shadcn/ui · N8N · Akee · SCRUM · NPM - Pyton
 
 ---
 
