@@ -16,7 +16,7 @@
 
 - 🌎 Based in Mar del Plata, Argentina  
 - 👨‍💻 All my projects: [github.com/mauroociappinaph](https://github.com/mauroociappinaph)  
-- 🌐 Portfolio: [https://mauro-ciappina-portfolio.vercel.app/
+- 🌐 Portfolio: https://mauro-ciappina-portfolio.vercel.app/
 - 💼 LinkedIn: [linkedin.com/in/maurojoseciappina](https://www.linkedin.com/in/maurojoseciappina/)  
 - 📮 Contact: ciappinamaurooj@gmail.com  
 
