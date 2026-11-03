@@ -1,42 +1,37 @@
-# Hi, I'm Mauro José Ciappina
+<img src="assets/banner.png" alt="Mauro José Ciappina, Full Stack Developer: React, Next.js, Node.js, NestJS e IA aplicada" width="100%">
 
-**Full Stack Developer · AI-enabled developer tools**
+### `mauro▬` · Desarrollador Full Stack
 
-I build web applications, APIs, and developer tools with React, TypeScript, and Node.js. I’m interested in applying AI and automation to practical development workflows, with a focus on maintainable software and useful product experiences.
+Construyo interfaces web, APIs y herramientas para desarrolladores con **React, TypeScript, Node.js y NestJS**. Uso agentes de IA todos los días, pero como herramienta: defino la arquitectura, escribo los tests primero, reviso cada cambio y entrego en PRs chicos.
 
-Currently, I work as a **Frontend Developer at Leren Consulting**, building interfaces and developer tooling. Previously, I worked on backend and full-stack products.
+Hoy hago frontend y tooling para e-commerce en **Leren Consulting**. Antes trabajé en remoto para equipos de España y EE. UU. en backend y full stack.
 
-- [Portfolio](https://mauro-ciappina-portfolio.vercel.app/)
-- [LinkedIn](https://www.linkedin.com/in/maurojoseciappina/)
-- [GitHub](https://github.com/mauroociappinaph)
+**[Portfolio](https://mauro-ciappina-portfolio.vercel.app)** · **[LinkedIn](https://www.linkedin.com/in/maurojoseciappina/)** · **[YouTube: Mr.Mauroo](https://www.youtube.com/@soymrmauroo)**
 
-## Selected projects
+---
 
-- **[HttpLazy](https://github.com/mauroociappinaph/lazyhttp-libreria)** — Published TypeScript HTTP client library with retries, interceptors, and error handling. [npm package](https://www.npmjs.com/package/httplazy).
-- **[SeatFlow Studio](https://github.com/mauroociappinaph/fanz-seatmap-builder)** — Deployed frontend editor for seating maps, built with Next.js, React, TypeScript, and SVG. Supports rows, tables, areas, JSON import/export, and local browser storage. [Live demo](https://seat-flow-studio.vercel.app/).
-- **[ArchViz](https://github.com/mauroociappinaph/archviz)** — Next.js and TypeScript app that analyzes public GitHub repositories and generates C4 architecture diagrams. [Live demo](https://my-app-eight-chi-87.vercel.app/).
-- **[Stellar](https://github.com/mauroociappinaph/stellar)** — React and TypeScript design tool for AI-assisted color palettes and typography suggestions. [Live demo](https://stellar-five-psi.vercel.app/).
-- **[Tienda Prueba](https://github.com/mauroociappinaph/tiendaprueba)** — React and TypeScript shopping-cart demo with a REST API and a budget optimizer. [Live demo](https://tiendaprueba-beta.vercel.app/).
-- **[Calamar Loco](https://github.com/mauroociappinaph/Calamar-Play)** — 3D endless-runner game built with React Three Fiber and TypeScript. Adaptive AI gameplay is planned, not presented as an implemented feature. [Live demo](https://calamar-play.vercel.app/).
-- **[VerifiAI](https://verifiai-three.vercel.app/es)** — Deployed Spanish-language interface exploring AI-assisted fact-checking; source code is not linked publicly.
-- **[Mr.Mauroo-orquestador](https://github.com/mauroociappinaph/Mr.Mauroo-orquestador)** — Go-based project for configuring AI coding-agent workflows and integrations, with automated tests and CI.
+#### 01 — Proyectos
 
-## Experience
+| Proyecto | Qué es | Stack |
+|---|---|---|
+| **[HttpLazy](https://github.com/mauroociappinaph/lazyhttp-libreria)** | Librería npm para consumir APIs con reintentos, interceptores y manejo de errores. 2.600+ descargas. [npm](https://www.npmjs.com/package/httplazy) | TypeScript |
+| **[SeatFlow Studio](https://github.com/mauroociappinaph/fanz-seatmap-builder)** | Editor de planos de asientos: filas, mesas, etiquetado masivo por patrones, JSON validado. [Demo](https://seat-flow-studio.vercel.app/) | Next.js · React · SVG · Zustand · Zod |
+| **Mr.Mauroo Studio** | Estudio de video con código: CLI propio (`mrm`) que valida el plan, arma storyboard y crítico antes de renderizar. [Canal](https://www.youtube.com/@soymrmauroo) | TypeScript · Remotion · Zod |
+| **[ArchViz](https://github.com/mauroociappinaph/archviz)** | Analiza un repo público de GitHub y genera diagramas C4. [Demo](https://my-app-eight-chi-87.vercel.app/) | Next.js · TypeScript · Mermaid |
+| **[Mr.Mauroo-orquestador](https://github.com/mauroociappinaph/Mr.Mauroo-orquestador)** | Configuración de flujos de agentes de IA para programar, con tests y CI. | Go |
+| **[tiendanube-liquid-tools](https://github.com/mauroociappinaph/tiendanube-liquid-tools)** | Gramática tree-sitter, parsers, validador, CLI y servidor LSP para Liquid en Tiendanube. | TypeScript · tree-sitter |
 
-- **Frontend Developer — Leren Consulting** | Jul 2026–Present · Full-time contractor
-- **Backend Developer — Dazlab** | Oct 2024–Jun 2025
-- **Full Stack Developer — Hows Advisor** | Mar–May 2024
-- **Full Stack Developer — Packar** | Dec 2023–Apr 2024
+También: una plataforma healthtech como cofundador técnico (privada, bajo NDA): arquitectura hexagonal con NestJS, PostgreSQL con RLS, cifrado AES-256-GCM, MFA y E2E sobre un stack real.
 
-## Technologies
+#### 02 — Experiencia
 
-**Frontend:** React, Next.js, TypeScript, JavaScript, HTML, CSS, Tailwind CSS  
-**Backend & data:** Node.js, NestJS, REST APIs, PostgreSQL, Supabase, MongoDB  
-**Testing & tooling:** Jest, Vitest, Playwright, Git, GitHub  
-**AI-enabled development:** MCP, LLM-assisted workflows, CLI tools, developer tooling
+- **Frontend Developer** — Leren Consulting · jul 2026 – hoy
+- **Backend Developer** — Dazlab · oct 2024 – jun 2025
+- **Full Stack Developer** — Hows Advisor · mar – may 2024
+- **Full Stack Developer** — Packar · dic 2023 – abr 2024
 
-## Education & languages
+#### 03 — Stack
 
-- **Henry Bootcamp** — Full Stack Developer (2023)
-- **Universidad Nacional de Mar del Plata** — Audiovisual Communication studies (2018–2022)
-- Spanish: Native · English: B1
+**Frontend** React, Next.js, TypeScript, Tailwind, Zustand · **Backend** Node.js, NestJS, PostgreSQL, Supabase, Prisma, Drizzle · **Calidad** TDD, Vitest, Jest, Playwright, GitHub Actions · **IA** agentes, MCP, LLMs · **Otros** Go
+
+Español nativo · inglés B1 · remoto desde Argentina
