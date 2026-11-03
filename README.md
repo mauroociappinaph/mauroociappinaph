@@ -1,10 +1,10 @@
 <img src="assets/banner.png" alt="Mauro José Ciappina, Full Stack Developer: React, Next.js, Node.js, NestJS e IA aplicada" width="100%">
 
-### `mauro▬` · Desarrollador Full Stack
+### `mauro▬` · AI Product Engineer · Full Stack con IA
 
 Construyo interfaces web, APIs y herramientas para desarrolladores con **React, TypeScript, Node.js y NestJS**. Uso agentes de IA todos los días, pero como herramienta: defino la arquitectura, escribo los tests primero, reviso cada cambio y entrego en PRs chicos.
 
-Hoy hago frontend y tooling para e-commerce en **Leren Consulting**. Antes trabajé en remoto para equipos de España y EE. UU. en backend y full stack.
+Hasta noviembre de 2026 hice frontend y tooling para e-commerce en **Leren Consulting**; antes trabajé en remoto para equipos de España y EE. UU. en backend y full stack.
 
 **[Portfolio](https://mauro-ciappina-portfolio.vercel.app)** · **[LinkedIn](https://www.linkedin.com/in/maurojoseciappina/)** · **[YouTube: Mr.Mauroo](https://www.youtube.com/@soymrmauroo)**
 
@@ -25,7 +25,7 @@ También: una plataforma healthtech como cofundador técnico (privada, bajo NDA)
 
 #### 02 — Experiencia
 
-- **Frontend Developer** — Leren Consulting · jul 2026 – hoy
+- **Frontend Developer** — Leren Consulting · jul 2026 – nov 2026
 - **Backend Developer** — Dazlab · oct 2024 – jun 2025
 - **Full Stack Developer** — Hows Advisor · mar – may 2024
 - **Full Stack Developer** — Packar · dic 2023 – abr 2024
